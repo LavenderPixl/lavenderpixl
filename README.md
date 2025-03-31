@@ -1,7 +1,6 @@
-# Hi there 🙋‍♀️:
-My name is Anna 🌸
+# Hi there 🙋‍♀️
 
-Here's some info about me:
+My name is Anna 🌸
 
 
 🌐 I'm a student located in Denmark, studying to become a Data Technician, specialising in Programming.
