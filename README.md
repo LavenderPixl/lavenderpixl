@@ -12,7 +12,7 @@ My name is Anna 🌸
 
 🍀 I currently have an internship! 
 
-😺 Mother of 2 cat.
+😺 Mother of 2 cats.
 
 
 <!--
